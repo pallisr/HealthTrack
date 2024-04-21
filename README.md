@@ -1,13 +1,13 @@
 # HealthTrack
-This app is designed to help users track their fitness activities, meals, and goals.
+This app is designed to help users track their fitness activities, meals, health and goals.
 
 ## Features
 
-- **Signup/Login**: Users can create an account or log in with their credentials.
 - **Dashboard**: Provides an overview of activity summary, motivational codes, and navigation to other sections.
 - **Activity Log**: Allows users to track daily activities, meals, diets, and view monthly activity trends.
-- **Calorie Tracker**: Enables users to monitor daily and monthly calorie intake, expenditure, and activity levels.
+- **Mental health check-in**: Enables users to monitor daily mood and thoughts.
 - **Goals and Achievements**: Helps users set and track daily, monthly goals, and view achieved goals.
+- **Nutrition page**: Track food and colories consumed.
 
 ## Technologies Used
 
@@ -31,4 +31,3 @@ Note: Run the code when the Mobile Phone is connected to the laptop with the USB
 ![Mental Health CheckIn](images/pic_3.png)
 ![Goals and Achievements](images/pic_4.png)
 ![Nutrition page](images/pic_5.png)
-https://github.com/ChandraSekharGuptaTanguturi/FitnessTrackerApp/assets/167555291/86db5ae9-32da-44c9-9c31-b92d18e1298d
