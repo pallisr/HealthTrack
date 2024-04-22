@@ -31,3 +31,7 @@ Note: Run the code when the Mobile Phone is connected to the laptop with the USB
 ![Mental Health CheckIn](images/pic_3.png)
 ![Goals and Achievements](images/pic_4.png)
 ![Nutrition page](images/pic_5.png)
+
+## Video explanation
+https://github.com/pallisr/HealthTrack/assets/167711944/7ebbfe7f-82ba-4218-9b77-082427d4cbbc
+https://github.com/pallisr/HealthTrack/assets/167711944/d83e04be-ff99-4905-8090-aa23bbc2bb7a
